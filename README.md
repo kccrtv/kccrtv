@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://twitter.com/kimmy_codes" target="blank"><img src="https://img.shields.io/twitter/follow/kimmy_codes?logo=twitter&style=for-the-badge" alt="kimmy codes twitter" /></a> </p>
 
 ### More about me 🌎: 
-- TL;DR, my squads <a href="https://linktr.ee/kimcinco">LinkTree</a> 🕸️
+- TL;DR, my squads: <a href="https://linktr.ee/kimcinco">LinkTree</a> 🕸️
 - <a href="https://kimmy-codes.webflow.io/design">Design</a> && <a href="https://kimmy-codes.webflow.io/dev">Dev</a> Portfolio 🎨👩🏻‍💻
 - Making code-related puns <a href="https://twitter.com/kimmy_codes"> Twitter</a> 🐦
 - Networking on <a href="https://www.linkedin.com/in/kimcinco/">LinkedIn</a> 💼
