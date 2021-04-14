@@ -1,8 +1,9 @@
-![kc-banner-compact](https://user-images.githubusercontent.com/67879386/114729836-3250aa80-9cf5-11eb-9293-2dcdb54fe5f2.png)
+<p><img src="https://user-images.githubusercontent.com/67879386/114729836-3250aa80-9cf5-11eb-9293-2dcdb54fe5f2.png" alt="quote from kim"></img></p>
 
-<h1 align=center>Håfa adai, world! I'm Kim. 🤙🏻</h1>
-<p align=center><a href="https://kimmy-codes.webflow.io/about">@kimmy_codes</a></p>
-<p align=center> ✈️ <em> placesLived = [GUAM, ...HI, CA]</em></p>
+<h1 align="center">Håfa adai, world! I'm Kim. 🤙🏻</h1>
+<p align="center"><a href="https://kimmy-codes.webflow.io/about">@kimmy_codes</a></p>
+<p align="center"> ✈️ <em> placesLived = [GUAM, ...HI, CA]</em></p>
+<p align="center"> <a href="https://twitter.com/kimmy_codes" target="blank"><img src="https://img.shields.io/twitter/follow/kimmy_codes?logo=twitter&style=for-the-badge" alt="kimmy codes twitter" /></a> </p>
 
 ### More about me 🌎: 
 - TL;DR, my squads <a href="https://linktr.ee/kimcinco">LinkTree</a> 🕸️
