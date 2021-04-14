@@ -1,2 +1,1 @@
-# code-every-day
-# kccrtv
+Håfa adai, world! 🤙🏻
