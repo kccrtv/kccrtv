@@ -1,13 +1,12 @@
-<h2 align="center">Yo! I'm Kim. 🤙🏻</h2><br/>
+<h2 align="center">Yo! I'm Kim. 🤙🏻</h2>
 
-I'm one of those Designers who codes (aka UX Engineer/Design Technologist) with a non-traditional background of military service, social work, and child welfare advocacy. I'm most passionate about human-centered design and building intuitive and inclusive experiences. Hailing from Guam and O‘ahu, Kim supports the movement to level the industry playing field for underrepresented tech creatives. 
+<h3>About me</h3>
+I'm a Designer who codes (aka UX Engineer aka Design Technologist aka UX Unicorn). I'm passionate about my little human and human-centered design to build intuitive and inclusive experiences.
 
-<h3>Current Projects</h3>
+<h3>Currently,</h3>
 <div>
-<ul style="list-style-type:none;">
-  <li><a href="https://healthequitytracker.org/" target="_blank">Work</a></li>
-  <li><a href="https://ritaxyz.com/" target="_blank">Volunteering</a></li>
-</ul>
+<a style="display:inline" href="https://healthequitytracker.org/" target="_blank">Product Managin'</a>&nbsp;&<br/>
+<a href="https://ritaxyz.com/" target="_blank">Technology Directin'</a>
 </div>
 
 <h3>My Toolbox</h3>
