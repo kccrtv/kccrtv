@@ -1,11 +1,11 @@
 <h2 align="center">Yo! I'm Kim. 🤙🏻</h2>
 
 <h3>About me</h3>
-I'm a Designer who codes (aka UX Engineer aka Design Technologist aka UX Unicorn). I'm passionate about my little human and human-centered design to build intuitive and inclusive experiences.
+I'm a Designer who codes (aka UX Engineer aka Design Technologist aka UX Unicorn aka aka Tan Lightning). I'm passionate about my little human and human-centered design to build intuitive and inclusive experiences.
 
 <h3>Currently,</h3>
 <div>
-<a style="display:inline" href="https://healthequitytracker.org/" target="_blank">Product Managin'</a>&nbsp;&<br/>
+<a style="display:inline" href="https://healthequitytracker.org/" target="_blank">UX Engineerin'</a>&nbsp;&<br/>
 <a href="https://ritaxyz.com/" target="_blank">Technology Directin'</a>
 </div>
 
